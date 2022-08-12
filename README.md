@@ -1,3 +1,3 @@
-# js-3iugf6
+# JavaScript Object Methods
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-3iugf6)
+https://medium.com/@priteymehta9/awesome-object-methods-63c033816410
